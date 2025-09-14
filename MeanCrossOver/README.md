@@ -10,3 +10,5 @@ This is for complex functions
 $$
 \frac{x}{y} = z
 $$
+
+$$\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$
